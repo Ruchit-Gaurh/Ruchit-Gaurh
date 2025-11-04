@@ -17,6 +17,22 @@
 
 ---
 
+### 🚀 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruchit-Gaurh&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchit-Gaurh&theme=tokyonight" height="160" />
+</p>
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ruchit-Gaurh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ruchit-Gaurh/Ruchit-Gaurh/output/snake.svg">
+</p>
+
 ### 🛠️ Tech Stack
 
 **Languages:** Python | JavaScript | TypeScript | C++  
